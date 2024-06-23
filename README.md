@@ -8,3 +8,5 @@ Frontend code for LRU cache
 -> To change or port, open `RuntimeConfig.ts`.
 # Connect Frontend and Backend
 -> Ensure the port in `main.go` for the backend matches the port specified in `RuntimeConfig.ts` in the frontend repository.
+# Info
+-> Make sure to start backend server before frontend
